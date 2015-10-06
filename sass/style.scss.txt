@@ -1,0 +1,14 @@
+﻿@import "includes/settings";
+
+body{
+  background-image: linear-gradient(to bottom right, red, green);
+}
+.wrapper{
+  border-color: $blue;
+  color: darken($blue, 10%);
+}
+.border{
+  padding: $margin / 2;
+  margin: $margin / 2;
+  border-color: $blue;
+}

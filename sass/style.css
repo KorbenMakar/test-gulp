@@ -1,0 +1,34 @@
+body {
+  background-image: linear-gradient(to bottom right, yellow, blue);
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  width: 1000px;
+  margin: 0 auto; }
+
+.wrapper {
+  border-color: #3bbfce;
+  color: #2b9eab; }
+
+.border {
+  padding: 8px;
+  margin: 8px;
+  border-color: #3bbfce; }
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 54px;
+  color: darkcyan; }
+
+p {
+  font-size: 24px; }
+
+ul {
+  display: flex; }
+
+li {
+  padding: 16px;
+  list-style-type: none;
+  justify-content: flex-end;
+  width: 20%; }
+
+/*# sourceMappingURL=style.css.map */
